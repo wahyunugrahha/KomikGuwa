@@ -1,2 +1,2 @@
 # KomikGuwe
-Belajar
+Belajar dari Dicoding Andriud Beginner
