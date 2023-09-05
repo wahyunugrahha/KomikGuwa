@@ -6,7 +6,7 @@
   <p align="center">
     KomikGuwe is KomikApp
     <br />
-    <a href="-" target="_blank">APK Demo</a>
+    <a href="https://github.com/wahyunugrahha/KomikGuwa/releases/tag/v1.0" target="_blank">APK Demo</a>
   </p>
 
 ## About The Project
