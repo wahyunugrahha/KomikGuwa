@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">KomikGuwe</string>
+    <string name="profile">Profile</string>
+    <string name="email">wahyunih297@gmail.com</string>
+    <string name="nama_user">Wahyu Nugraha</string>
+    <string name="grid">Grid</string>
+    <string name="genre">Genre</string>
+    <string name="komik_name">Nama Komik</string>
+    <string name="komik_author">Komik Author </string>
+    <string name="komik_status">Status Komik </string>
+    <string name="komik_chapter">Chapter 0 </string>
+    <string name="komik_genre">Action</string>
+    <string name="komik_genre_2">Drama</string>
+    <string name="chapter_list">Chapter List</string>
+
+
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Solo Leveling</item>
+        <item>Solo Max-Level Newbie</item>
+        <item>Player Who Can’t Level</item>
+        <item>Lookism</item>
+        <item>SSS-Class Suicide Hunter</item>
+        <item>The Beginning After the End</item>
+        <item>Magic Emperor</item>
+        <item>Martial God Asura</item>
+        <item>My Wife Is a Demon Queen</item>
+        <item>Mushoku Tensei – Isekai Ittara Honki Dasu</item>
+        <item>Oshi No Ko</item>
+    </string-array>
+    <string-array name="data_chapter">
+        <item>Chapter 1</item>
+        <item>Chapter 2</item>
+        <item>Chapter 3</item>
+        <item>Chapter 4</item>
+        <item>Chapter 5</item>
+        <item>Chapter 6</item>
+        <item>Chapter 7</item>
+        <item>Chapter 8</item>
+
+
+
+    </string-array>
+    <string-array name="data_description">
+        <item>E-class hunter Jinwoo Sung is the weakest of them all. Looked down on by everyone, he has no money, no abilities to speak of, and no other job prospects. So when his party finds a hidden dungeon, he’s determined to use this chance to change his life for the better…but the opportunity he finds is a bit different from what he had in mind. </item>
+        <item>Jinhyuk, seorang Nutuber game, adalah satu-satunya orang yang melihat akhir permainan [Tower of Trials].Namun, ketika popularitas game menurun, menjadi sulit baginya untuk terus mencari nafkah sebagai Nutuber game.Karena dia sudah melihat akhir permainan, dia akan berhenti bermain. Tapi hari itu, [Tower of Trials] menjadi kenyataan, dan Jinhyuk, yang tahu tentang setiap hal dalam permainan, mengambil alih segala sesuatu yang lebih cepat dari yang mungkin bisa dilakukan siapa pun! “Akan kutunjukkan seperti apa profesional sejatinya</item>
+        <item>Kim GiGyu terbangun sebagai pemain pada usia 18 tahun. Dia mengira hidupnya berada di jalur menuju kesuksesan, memanjat ‘menara’ dan menutup ‘gerbang’ … Tetapi bahkan setelah menyelesaikan tutorial, dia berada di level 1. Dia membunuh seorang goblin sehari, dan dia masih level 1. Bahkan setelah 5 tahun, dia masih level 1. “Siapa sangka pemain seperti ini akan ada.” Tidak ada yang tahu.</item>
+        <item>Lookism mengisahkan tentang seorang remaja laki-laki bernama Park Hyung Seok yang mengalami bully penampilannya yang dianggap tidak menarik. Bully yang begitu parah membuatnya memutuskan untuk pindah rumah dan sekolah.Tak disangka, keputusan pindah itu ternyata benar-benar mengubah kehidupan Park Hyung Seok. Suatu hari di tempat tinggal barunya, secara tiba-tiba, Park Hyung terbangun dengan tubuh orang lain. Sementara, tubuh lamanya tergeletak tertidur di sampingnya. Tubuh baru Park Hyung Seok tampak sehat dan sempurna, wajahnya juga sangat tampan.</item>
+        <item>Di Menara misterius seperti penjara bawah tanah RPG, Gong-ja Kim hidup dalam kehidupan duniawi, iri pada semua pemburu bintang. Suatu hari, keinginannya untuk mendapatkan lebih dikabulkan dengan keterampilan legendaris untuk meniru kemampuan orang lain… dengan mengorbankan nyawanya. Sebelum dia bisa memahaminya, dia dibunuh oleh pemburu #1, Kaisar Api! Tapi ini mengaktifkan keahliannya dan sekarang dia menyalin yang baru, kemampuan untuk melakukan perjalanan kembali ke masa lalu setelah kematian. Bagaimana Gong-ja akan menggunakan keterampilan ini untuk mengungguli kompetisi dan naik ke puncak?.</item>
+        <item>Raja Gray memiliki kekuatan, kekayaan, dan prestise yang tak tertandingi di dunia yang diatur oleh kemampuan bela diri. Namun, kesendirian tetap ada di belakang mereka yang memiliki kekuatan besar. Di bawah eksterior glamor seorang raja yang kuat mengintai cangkang manusia, tanpa tujuan dan kemauan. Bereinkarnasi ke dunia baru yang penuh dengan sihir dan monster, raja memiliki kesempatan kedua untuk menghidupkan kembali hidupnya. Namun, memperbaiki kesalahan masa lalunya tidak akan menjadi satu-satunya tantangannya. Di bawah kedamaian dan kemakmuran dunia baru adalah arus bawah yang mengancam untuk menghancurkan semua yang telah dia kerjakan, mempertanyakan peran dan alasannya untuk dilahirkan kembali.</item>
+        <item>Zhuo Yifan adalah seorang kaisar sihir atau bisa di panggil kaisar iblis, karena dia mempunyai buku kaisar kuno yang di sebut buku sembilan rahasia dia menjadi sasaran semua ahli beradiri bahkan dia di khianati dan di bunuh oleh muridnya. Kemudian jiwanya masuk dan hidup kembali dalam seorang anak pelayan keluarga bernama Zhuo Fan.Karena suatu sihir iblis mengekangnya, dia harus menyatukan ingatan anak itu dan tidak bisa mengabaikan keluarga dan nona yang dia layaninya. Bagaimana kehidupan nya membangun kembali keluarganya dan kembali menjadi yang terkuat didaratan benua</item>
+        <item>Suatu malam fenomena misterius dan tidak dapat dijelaskan terjadi di sembilan provinsi. Lima tahun kemudian Chu Feng, murid luar biasa dari sekolah Azure Dragon, membangunkan salah satu dari sembilan binatang petir misterius. Dan menemukan telur yang tersegel di dalam dirinya.</item>
+        <item>Seorang protagonis laki-laki tak berdaya yang normal dipercayakan untuk menjaga ratu iblis, Isabella. Kehilangan kekuatannya, Isabella dipaksa untuk menyamar sebagai manusia dan menekan status agungnya. Rencana dalang jahat untuk melengserkan ratu iblis yang kuat di tanah fantasi abad pertengahan.</item>
+        <item>NEET berusia 34 tahun tewas dalam kecelakaan lalu lintas dan menemukan dirinya berada di dunia sihir. Alih-alih bangun sebagai penyihir dewasa, ia bereinkarnasi sebagai bayi yang baru lahir, mempertahankan kenangan akan kehidupan masa lalunya. Bahkan sebelum dia dapat menggerakkan tubuhnya dengan benar, dia memutuskan untuk tidak pernah membuat kesalahan yang sama seperti yang dia lakukan di kehidupan pertamanya lagi dan sebaliknya menjalani hidup tanpa penyesalan dengan yang baru yang diberikan kepadanya. Karena dia memiliki pengetahuan sebagai seorang pria paruh baya, pada usia dua tahun, dia telah menjadi seorang yang ajaib dan memiliki kekuatan yang tidak terpikirkan oleh siapa pun seusianya dan bahkan yang lebih tua. Maka dimulailah kronik Rudeus Greyrat, putra pendekar pedang Paul dan penyembuh Zenith, saat ia memasuki dunia baru untuk menjadi penyihir terkuat yang dikenal manusia, dengan kekuatan yang menyaingi bahkan para dewa itu sendiri.</item>
+        <item>Ceritanya dimulai dengan seorang gadis cantik, senyum palsunya yang sempurna, dan orang-orang yang mencintainya dengan egois karenanya.Apa yang terjadi di balik layar industri showbiz yang berkilauan? Seberapa jauh Anda akan melangkah demi idola yang Anda cintai? Apa yang akan Anda lakukan jika Anda menemukan reinkarnasi itu nyata? Bintang pertunjukan itu adalah Aquamarine Hoshino dan panggungnya hanyalah fasad belaka. Akankah dia berhasil mencapai klimaks sebelum dunia glamour menelannya seluruhnya?</item>
+    </string-array>
+    <string-array name="data_author">
+        <item>Chu-Gong</item>
+        <item>WAN.Z(redice studio), Maslow</item>
+        <item>GaVinGe (Story) Park, Jeongjae (Art)</item>
+        <item>Park Tae Joon</item>
+        <item>Shin Noah</item>
+        <item>TurtleMe</item>
+        <item>Ye Xiao</item>
+        <item>Shan Liang De Mi Feng </item>
+        <item>Chihung Yao</item>
+        <item>Rifujin na Magonote</item>
+        <item>Aka Akasaka</item>
+    </string-array>
+    <string-array name="data_status">
+        <item>Completed</item>
+        <item>Ongoing</item>
+        <item>Ongoing</item>
+        <item>Ongoing</item>
+        <item>Ongoing</item>
+        <item>Ongoing</item>
+        <item>Ongoing</item>
+        <item>Ongoing</item>
+        <item>Ongoing</item>
+        <item>Ongoing</item>
+        <item>Ongoing</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://kiryuu.id/wp-content/uploads/2021/06/08-374020-cbiyLkVi.png</item>
+        <item>https://kiryuu.id/wp-content/uploads/2021/07/71991ab35fab0c0a145530942eb5d7248f805128-s2-n2-y1-730914-piVf8mFP.webp</item>
+        <item>https://kiryuu.id/wp-content/uploads/2021/03/pwclu-209618-z1dJk84S.png</item>
+        <item>https://kiryuu.id/wp-content/uploads/2021/03/lookism-574791-fSeuC5fA-211x300.webp</item>
+        <item>https://kiryuu.id/wp-content/uploads/2021/08/8fe1978073db0b9287b41d4b0febff4591d48413-s2-n2-y1-286279-8PMb3pEd-210x300.webp</item>
+        <item>https://kiryuu.id/wp-content/uploads/2022/06/the-beginning-after-the-end-598680-c9U2oM0l-200x300.jpg</item>
+        <item>https://kiryuu.id/wp-content/uploads/2021/05/manhua-821002-yAQZQNai-177x300.gif</item>
+        <item>https://kiryuu.id/wp-content/uploads/2021/03/my-wife-is-a-demon-queen-597427-N6HdWVlM-225x300.png</item>
+        <item>https://kiryuu.id/wp-content/uploads/2021/03/martial-god-asura-847337-gWWGBhMc.jpg</item>
+        <item>https://kiryuu.id/wp-content/uploads/2022/12/vol-18-806163-rEWVpMoA-211x300.jpg</item>
+        <item>https://kiryuu.id/wp-content/uploads/2021/03/oshi-no-ko-998049-TrBm1Bg3.jpg</item>
+    </string-array>
+</resources>
