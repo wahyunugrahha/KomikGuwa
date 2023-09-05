@@ -12,7 +12,7 @@
 ## About The Project
 
 <div align="center">
-  <img src="https://i.ibb.co/RCQhq94/komikguwa.png" alt="komikguwa" border="0"></a> width="auto" height="auto"  style="border-radius:50%">    
+  <img src="https://i.ibb.co/RCQhq94/komikguwa.png" alt="komikguwa" border="0"> width="auto" height="auto"  style="border-radius:50%">    
 </div>
 <br />
 
